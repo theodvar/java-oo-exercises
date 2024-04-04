@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"gr.aueb.cf.ch12.bankapp","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"gr.aueb.cf.ch12.bankapp","c":"Main","l":"main(String[])","url":"main(java.lang.String[])"}]
